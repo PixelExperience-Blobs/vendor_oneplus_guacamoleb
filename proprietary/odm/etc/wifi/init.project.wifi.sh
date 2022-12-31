@@ -1,5 +1,5 @@
 #Sukshata@Wifi.BDF,NA 2022/01/21
-#load oneplus bdf files for 18857 model
+#load oneplus bdf filess
 hw_version=`getprop ro.boot.hw_version`
 rf_version=`getprop ro.boot.rf_version`
 tempstr=`getprop persist.vendor.oem.wifi.chain`
